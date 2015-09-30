@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: AARX
+Build-Jdk: 1.8.0_31
+Implementation-Title: Spring MVC Application
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.workout
+Implementation-Vendor: Pivotal Software, Inc.
+Created-By: Maven Integration for Eclipse
+
